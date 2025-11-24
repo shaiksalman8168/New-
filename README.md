@@ -1,1 +1,2 @@
-# New-
+Personal Portfolio Website
+This is a simple personal portfolio website built using only HTML and CSS, designed to showcase my skills, projects, and basic web development abilities. The layout is clean, minimal, and easy to navigate, focusing on core front-end fundamentals without using any frameworks. After creating the pages from scratch, I deployed the site using GitHub Pages (github. io), allowing the portfolio to be publicly accessible directly from my GitHub repository. This project marks my first step into web development—learning how to structure a webpage, apply styling effectively, and publish a live website using GitHub's hosting platform.
